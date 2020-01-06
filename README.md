@@ -12,6 +12,8 @@ If Erika has not already reached out to you to schedule the shadowing sessions, 
 
 After your TC observations, you'll roleplay in several mock pair programming sessions with Erika, where you'll play the role of the Technical Coach and Erika will play the role of the student. This will help get you accustomed to troubleshooting and teaching in a low pressure environment where you can immediately get feedback on your performance. This will also (ideally) make you more comfortable with the process, so by the time you're ready to do your first shift, you're ready to effectively work with students. The roleplays will likely cover a variety of topics, ranging from basic lab debugging to environment issues to teaching a student struggling conceptually.
 
+Before (and likely during) your role-playing sessions, Erika will review the AAQ/Expert Chat UI with you, as well as some of the more common `qbot` commands, to help acclimate you to the systems we use.   
+
 If Erika has not already reached out to you to schedule the mock pair programming sessions, please reach out to her!
 
 ## Pairing With Students
